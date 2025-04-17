@@ -1,6 +1,6 @@
 # APLICACIÓN DE PRUEBA REACT, VITE Y TAILWIND 4
 
-![logo](src/assets/react.svg?raw=true"logo")  
+![logo](src/assets/project_preview.gif?raw=true"logo")  
 
 Aplicación de prueba, practica de React con Vite y Tailwind
 
