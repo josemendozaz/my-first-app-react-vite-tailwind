@@ -25,13 +25,17 @@ Aplicación de prueba, practica de React con Vite y Tailwind
 
 ## 🖼️ Vista Previa:
 * Vista Movil: Dark theme:
+<br>
 ![screenshot one](src/assets/screenshot_one.png?raw=true"logo") 
 
 * Vista Movil: Light theme:
+<br>  
 ![screenshot two](src/assets/screenshot_two.png?raw=true"logo") 
 
 * Vista PC: Dark theme:
+<br>  
 ![screenshot three](src/assets/screenshot_three.png?raw=true"logo") 
 
 * Vista PC: Light theme:
+<br>
 ![screenshot four](src/assets/screenshot_four.png?raw=true"logo") 
