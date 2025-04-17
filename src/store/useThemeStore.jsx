@@ -1,6 +1,5 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-persist
 
 export const useThemeStore = create(
 	persist(
