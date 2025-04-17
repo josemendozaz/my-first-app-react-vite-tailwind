@@ -22,3 +22,16 @@ Aplicación de prueba, practica de React con Vite y Tailwind
 * [React](https://es.react.dev/) - Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario.
 * [Vite](https://vite.dev/guide/) - Servidor de desarrollo local, utilizado de forma predeterminada por Vue y para las plantillas de proyectos React.
 * [Tailwind V4](https://tailwindcss.com/) - Framework CSS de código abierto para diseño de páginas web.
+
+## 🖼️ Vista Previa:
+* Vista Movil: Dark theme:
+![screenshot one](src/assets/screenshot_one.png?raw=true"logo") 
+
+* Vista Movil: Light theme:
+![screenshot two](src/assets/screenshot_two.png?raw=true"logo") 
+
+* Vista PC: Dark theme:
+![screenshot three](src/assets/screenshot_three.png?raw=true"logo") 
+
+* Vista PC: Light theme:
+![screenshot four](src/assets/screenshot_four.png?raw=true"logo") 
