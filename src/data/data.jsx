@@ -1,12 +1,26 @@
 export const projects = [
 	{
-		name	: "Proyecto #1",
-		detail	: "Lorem ipsum dolor.",
-		img		: "pink-panther.jpg"
+		name	: "Project #1",
+		detail	: "Pink Panther Card",
+		img		: "pink-panther.jpg",
+		link	: "/card-pink-panther"
 	},
 	{
-		name	: "Proyecto #2",
-		detail	: "Lorem ipsum nisi.",
-		img		: "clouseau.jpg"
+		name	: "Project #2",
+		detail	: "Simple Card",
+		img		: "aardvark_and_ant.jpg",
+		link	: "/simple-card"
+	},
+	{
+		name	: "Project #3",
+		detail	: "Template landing page",
+		img		: "clouseau.jpg",
+		link	: "/landing-page"
+	},
+	{
+		name	: "Project #4",
+		detail	: "Template discord chat",
+		img		: "father-pugg-louie.webp",
+		link	: "/template-discord-chat"
 	},
 ]
