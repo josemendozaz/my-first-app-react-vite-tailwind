@@ -1,6 +1,10 @@
 import { Icon } from "@iconify/react/dist/iconify.js";
 import { useNavigate } from "react-router-dom";
 
+
+import andorImage from '../../src/assets/andor.png'; // Ajusta la ruta relativa si es necesario
+
+
 export const ProjectSimpleCard = () => {
 	const navigate	= useNavigate();
 	return (
@@ -23,7 +27,7 @@ export const ProjectSimpleCard = () => {
 					</section>
 				</article>
 				<article className="relative flex items-end h-[100px]">
-					<img className="h-50 relative -bottom-4" src="/src/assets/andor.png" alt=""/>
+					<img className="h-50 relative -bottom-4" src={andorImage} alt=""/>
 				</article>
 			</section>
 		</div>

@@ -1,5 +1,9 @@
 import { useNavigate } from "react-router-dom";
 
+import tailwindImage from '../../src/assets/tailwind_css.png'; // Ajusta la ruta relativa si es necesario
+import vegetaImage from '../../src/assets/vegeta.png'; // Ajusta la ruta relativa si es necesario
+
+
 export const ProjectLandingPage = () => {
 	const navigate	= useNavigate();
 	return (
@@ -18,7 +22,7 @@ export const ProjectLandingPage = () => {
 			</header>
 			<main className="flex flex-col md:flex-row justify-center items-center px-8 md:px-16 gap-20 h-full">
 				<section className="text-center md:text-left">
-					<img className="h-30 md:h-50 mx-auto md:mx-0" src="/src/assets/tailwind_css.png" alt=""/>
+					<img className="h-30 md:h-50 mx-auto md:mx-0" src={tailwindImage} alt=""/>
 					<h1 className="text-3xl md:text-5xl font-bold my-4">¿Entrenamos?</h1>
 					<p className="mb-5 text-lg md:text-sm">
 						Tailwind es<br/>cool
@@ -27,7 +31,7 @@ export const ProjectLandingPage = () => {
 						Entrenar
 					</button>
 				</section>
-				<img className="w-15 md:w-35 mt-[-60px] md:mt-0" src="/src/assets/vegeta.png" alt=""/>
+				<img className="w-15 md:w-35 mt-[-60px] md:mt-0" src={vegetaImage} alt=""/>
 			</main>
 			<footer className="fixed bottom-0 text-center w-full p-2">
 				<span>Tailwind</span>
