@@ -1,6 +1,6 @@
 # ![logo](src/assets/react.svg?raw=true"logo") ![logo](src/assets/vite.svg?raw=true"logo")   APLICACIÓN DE PRUEBA REACT, VITE Y TAILWIND 4
 
-![logo](src/assets/project_preview.gif?raw=true"logo")  
+![logo](src/assets/readme/project_preview.gif?raw=true"logo")  
 
 Aplicación de prueba, practica de React con Vite y Tailwind
 
@@ -24,14 +24,22 @@ Aplicación de prueba, practica de React con Vite y Tailwind
 * [Tailwind V4](https://tailwindcss.com/) - Framework CSS de código abierto para diseño de páginas web.
 
 ## 🖼️ Vista Previa:
-* Vista Movil: Dark theme:  
-![screenshot one](src/assets/screenshot_one.png?raw=true"logo") 
+![screenshot one](src/assets/readme/screenshot_one.png?raw=true"logo")  
 
-* Vista Movil: Light theme:  
-![screenshot two](src/assets/screenshot_two.png?raw=true"logo") 
+![screenshot one](src/assets/readme/screenshot_two.png?raw=true"logo")  
 
-* Vista PC: Dark theme:  
-![screenshot three](src/assets/screenshot_three.png?raw=true"logo") 
+![screenshot one](src/assets/readme/screenshot_three.png?raw=true"logo")  
 
-* Vista PC: Light theme:  
-![screenshot four](src/assets/screenshot_four.png?raw=true"logo") 
+![screenshot one](src/assets/readme/screenshot_four.png?raw=true"logo")  
+
+![screenshot one](src/assets/readme/screenshot_five.png?raw=true"logo")  
+
+![screenshot one](src/assets/readme/screenshot_six.png?raw=true"logo")  
+
+![screenshot one](src/assets/readme/screenshot_seven.png?raw=true"logo")  
+
+![screenshot one](src/assets/readme/screenshot_eight.png?raw=true"logo")  
+
+![screenshot one](src/assets/readme/screenshot_nine.png?raw=true"logo")  
+
+![screenshot one](src/assets/readme/screenshot_ten.png?raw=true"logo")  
